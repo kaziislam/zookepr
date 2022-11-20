@@ -1,3 +1,4 @@
+
 const $displayArea = document.querySelector('#display-area');
 
 const printResults = resultArr => {
@@ -24,7 +25,7 @@ const getZookeepers = () => {
   fetch('/api/zookeepers')
     .then(response => {
       if (!response.ok) {
-        return alert('Error: ' + response.statusText);
+        return alert("Error: " + response.statusText);
       }
       return response.json();
     })
