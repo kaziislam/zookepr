@@ -126,6 +126,25 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Jerry",
+      "species": "Penguin",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Noam",
+      "species": "Orca",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
