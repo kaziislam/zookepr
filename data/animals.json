@@ -145,6 +145,16 @@
         "zany"
       ],
       "id": "14"
+    },
+    {
+      "name": "henry",
+      "species": "sperm whale",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
