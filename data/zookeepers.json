@@ -77,6 +77,12 @@
       "age": 7,
       "favoriteAnimal": "Orca",
       "id": "12"
+    },
+    {
+      "name": "Jack",
+      "age": 10,
+      "favoriteAnimal": "Axolotol",
+      "id": "13"
     }
   ]
 }

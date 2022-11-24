@@ -155,6 +155,17 @@
         "goofy"
       ],
       "id": "15"
+    },
+    {
+      "name": "henry",
+      "species": "Olm",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "16"
     }
   ]
 }
